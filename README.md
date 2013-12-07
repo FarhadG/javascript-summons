@@ -44,15 +44,16 @@ All of the exercises are located in the `src` directory. They contain directions
 Navigate to the `src` directory and fire up an exercise:
 
 ```javascript
-  /* ############### COMBINE ARRAYS
+  /* ############### FACTORS
 
-  Write a function that combines two unsorted arrays into a
-  sorted array without any duplicates. Use the comparative
-  operators for sorting instead of any sorting functions.
+  Write a function that returns an array 
+  containing all of the factors of a number.
+
+  For example: factors(10) === [1, 2, 5, 10]
 
   ################## */
 
-  combineArr = function(arr1, arr2) {
+  factors = function(num) {
     // code your magic here
   };
 ```
