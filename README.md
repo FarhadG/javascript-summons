@@ -13,7 +13,7 @@ JAVASCRIPT SUMMONS
 </tr>
 <tr>
 <td>Exercises</td>
-<td>3</td>
+<td>5</td>
 </tr>
 </table>
 
