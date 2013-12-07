@@ -30,18 +30,18 @@ To summon, you must first have <a href="https://github.com/isaacs/npm">npm</a> i
 Once you have `npm`, install `mocha` globally by running the following command:
 
 ```
-  npm install -g mocha
+  $ npm install -g mocha
 ``` 
 
 Then fork and clone (or download) Javascript Summons into your local directory:
 
 ```
-  git clone http://www.github.com/farhadg/javascript-summons
+  $ git clone http://www.github.com/farhadg/javascript-summons
 ```
 
 ## Usage
 
-All of the exercises are located in the `src` directory. They contain directions for the challenge; for more infomation regarding the tests, you can locate them in the `spec` directory.
+All of the exercises are located in the `src` directory. They contain the necessary directions for the challenges; for more infomation regarding the tests, you can locate them in the `spec` directory.
 
 Navigate to the `src` directory and fire up an exercise:
 
@@ -59,7 +59,7 @@ Navigate to the `src` directory and fire up an exercise:
     // code your magic here
   };
 ```
-Solve the exercise and summon the test by running the following command in your terminal:
+Solve the exercise and summon the test by running the following command:
 
 ```
   $ mocha filenameSpec.js
