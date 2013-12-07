@@ -23,4 +23,4 @@ describe("Change Base", function() {
     expect(changeBase(1231, 8, 16)).to.eql(299);
     expect(changeBase(1245, 8, 16)).to.eql("2a5");
   })
-});
+})

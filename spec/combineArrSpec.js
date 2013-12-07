@@ -13,4 +13,4 @@ describe("Combine Arrays", function() {
   it("returns a sorted array without any duplicates", function() {
     expect(combineArr([3, 2, 2], [4, 5, 5])).to.eql([2, 3, 4, 5]);
   })
-});
+})

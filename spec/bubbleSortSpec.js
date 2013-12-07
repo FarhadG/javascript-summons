@@ -9,4 +9,4 @@ describe("Bubble Sort", function() {
   it("sorts the array using d'Bubble Sort'", function() {
     expect(bubbleSort([2, 8, 7, 5, 4, 9, 10, 3])).to.eql([2, 3, 4, 5, 7, 8, 9, 10]);
   })
-});
+})

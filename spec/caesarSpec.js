@@ -13,4 +13,4 @@ describe("Caesar Cipher", function() {
   it("encodes more complex sentences", function() {
     expect(caesar("SUMMON my epic Javascript!", 3)).to.equal("VXPPRQ pb hslf Mdydvfulsw!");
   })
-});
+})
