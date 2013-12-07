@@ -10,13 +10,16 @@ Do you have what it takes to summon Javascript? Let's find out!
 ## Information
 
 <table>
-<tr> 
-<td>Language</td><td>Javascript</td>
+<tr>
+<td>Language</td>
+<td>Javascript</td>
 </tr>
+
 <tr>
 <td>Test Suite</td>
 <td>Mocha</td>
 </tr>
+
 <tr>
 <td>Exercises</td>
 <td>6</td>
