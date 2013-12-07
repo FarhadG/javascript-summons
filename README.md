@@ -83,4 +83,4 @@ You can view a list of Mocha's reporters by running the following command:
 
 ## Credits
 
-These summons were inspired by the many wonderful resources (i.e. RubyMonk, CoderByte, Javascript Koans, etc.) who challenge developers everyday to become better.
+These summons were inspired by the many wonderful resources (i.e. RubyMonk, CoderByte, JS Koans, etc.) that challenge developers everyday to become better.
