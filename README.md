@@ -1,6 +1,12 @@
 JAVASCRIPT SUMMONS 
 ==================
 
+Javascript Summons is a collection of exercises aimed at empowering developers.
+
+This project is in its early stages and will continue to grow with new tests to summon. If something is not working or you would like a new feature, please use the issues page.
+
+Do you have what it takes to summon Javascript? Let's find out!
+
 ## Information
 
 <table>
@@ -13,13 +19,9 @@ JAVASCRIPT SUMMONS
 </tr>
 <tr>
 <td>Exercises</td>
-<td>3</td>
+<td>6</td>
 </tr>
 </table>
-
-This project is in its early stages and will continue to grow with new tests to summon. If something is not working or you would like a new feature, please use the issues page.
-
-Do you have what it takes to summon Javascript? Let's find out!
 
 ## Installation
 
@@ -44,15 +46,16 @@ All of the exercises are located in the `src` directory. They contain directions
 Navigate to the `src` directory and fire up an exercise:
 
 ```javascript
-  /* ############### COMBINE ARRAYS
+  /* ############### FACTORS
 
-  Write a function that combines two unsorted arrays into a
-  sorted array without any duplicates. Use the comparative
-  operators for sorting instead of any sorting functions.
+  Write a function that returns an array 
+  containing all of the factors of a number.
+
+  For example: factors(10) === [1, 2, 5, 10]
 
   ################## */
 
-  combineArr = function(arr1, arr2) {
+  factors = function(num) {
     // code your magic here
   };
 ```
@@ -82,4 +85,4 @@ You can view a list of Mocha's reporters by running the following command:
 
 ## Credits
 
-These summons were inspired by the many wonderful resources (i.e. RubyMonk, CoderByte, Javascript Koans, etc.) who challenge developers everyday to become better.
+These summons were inspired by the many wonderful resources (i.e. RubyMonk, CoderByte, JS Koans, etc.) that challenge developers everyday to become better.
