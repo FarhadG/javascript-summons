@@ -1,6 +1,12 @@
 JAVASCRIPT SUMMONS 
 ==================
 
+Javascript Summons is a collection of exercises aimed at empowering developers.
+
+This project is in its early stages and will continue to grow with new tests to summon. If something is not working or you would like a new feature, please use the issues page.
+
+Do you have what it takes to summon Javascript? Let's find out!
+
 ## Information
 
 <table>
@@ -16,10 +22,6 @@ JAVASCRIPT SUMMONS
 <td>5</td>
 </tr>
 </table>
-
-This project is in its early stages and will continue to grow with new tests to summon. If something is not working or you would like a new feature, please use the issues page.
-
-Do you have what it takes to summon Javascript? Let's find out!
 
 ## Installation
 
