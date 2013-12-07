@@ -8,9 +8,9 @@ To represent a matrix, or two-dimensional grid of numbers, we can write an array
 
 Write a method that will convert between the row-oriented and column-oriented representations.
 
-For example: transpose(rows) === [[0, 3, 6],
-                                  [1, 4, 7],
-                                  [2, 5, 8]]
+For example: transpose(rows) ===  [[0, 3, 6],
+                                   [1, 4, 7],
+                                   [2, 5, 8]]
 
 ################## */
 
