@@ -1,7 +1,0 @@
-/* ############### INSERTION SORT
-
-################## */
-
-insertionSort = function() {
-  
-};
