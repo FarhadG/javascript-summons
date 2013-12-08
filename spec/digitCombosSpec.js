@@ -6,7 +6,7 @@ describe("Digit Combinations", function() {
     expect(digitCombos(5)).to.eql([5]);
   })
 
-  it("returns the combinations of a 2 digit number", function() {
+  it("returns the sorted combinations of a 2 digit number", function() {
     expect(digitCombos(12)).to.eql([12, 21]);
   })
     
