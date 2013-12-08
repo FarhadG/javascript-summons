@@ -11,7 +11,7 @@ Write a method that will convert between the row-oriented and column-oriented re
 For example: transpose(rows) ===  [[0, 3, 6],
                                    [1, 4, 7],
                                    [2, 5, 8]]
-
+                                   
 ################## */
 
 transpose = function(arr) {
