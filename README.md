@@ -22,7 +22,7 @@ Do you have what it takes to summon Javascript? Let's find out!
 
 <tr>
 <td>Exercises</td>
-<td>8</td>
+<td>9</td>
 </tr>
 </table>
 
