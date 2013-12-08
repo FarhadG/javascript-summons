@@ -7,6 +7,6 @@ describe("Factors", function() {
   })
 
   it("returns null for negative integers", function() {
-    expect(factors(-7)).to.be(null);
+    expect(factors(-7)).to.be.null;
   })
 })
