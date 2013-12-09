@@ -1,12 +1,12 @@
 /* ############### IN WORDS
 
-Write a function that takes a single positive integer 
-and returns its equivalent in words.
+  Write a function that takes a single positive integer 
+  and returns its equivalent in words.
 
-For example: inWords(27) === "twenty seven"
+  For example: inWords(27) === "twenty seven"
 
-The function should work for all numbers ranging
-from zero to the trillions.
+  The function should work for all numbers ranging
+  from zero to the trillions.
 
 ################## */
 
