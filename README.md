@@ -1,8 +1,6 @@
 JAVASCRIPT SUMMONS 
 ==================
 
-A collection of Javascript exercises aimed at empowering developers.
-
 This project is in its early stages and will continue to grow with new tests to summon. If something is not working or you would like a new feature, please use the issues page.
 
 Do you have what it takes to summon Javascript? Let's find out!
