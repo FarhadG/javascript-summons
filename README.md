@@ -20,7 +20,7 @@ Do you have what it takes to summon Javascript? Let's find out!
 
 <tr>
 <td>Exercises</td>
-<td>20</td>
+<td>21</td>
 </tr>
 </table>
 
