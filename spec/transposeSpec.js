@@ -2,13 +2,13 @@ require("../src/transpose");
 var expect = require("../vendor/expect");
 
 describe("Transpose", function() {
-  it("convert between row-oriented and column-oriented representations", function() {
+  it("converts between row-oriented and column-oriented representations", function() {
     var input  = [[0, 1, 2], [3, 4, 5], [6, 7, 8]];
     var result = [[0, 3, 6], [1, 4, 7], [2, 5, 8]];
     expect(transpose(input)).to.eql(result);
   })
 
-  it("convert between asymmetrical representations", function() {
+  it("converts between asymmetrical representations", function() {
     var input  = [[0, 1, 2, 3],
                   [4, 5], 
                   [6, 7, 8, 9]];

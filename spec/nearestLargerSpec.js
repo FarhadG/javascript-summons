@@ -6,11 +6,11 @@ describe("Nearest Larger", function() {
     expect(nearestLarger([2, 8, 7, 4, 9], 2)).to.eql(1);
   })
 
-  it("return the nearest larger integer's index to the right", function() {
+  it("returns the nearest larger integer's index to the right", function() {
     expect(nearestLarger([2, 4, 7, 8, 9], 2)).to.eql(3);
   })
 
-  it("return the left result if it's a tie", function() {
+  it("returns the left result if it's a tie", function() {
     expect(nearestLarger([1, 8, 7, 4, 7], 3)).to.eql(2);
   })
 
@@ -18,7 +18,7 @@ describe("Nearest Larger", function() {
     expect(nearestLarger([4, 7, 8, 5, 9], 2)).to.eql(4);
   })
 
-  it("return null if no results were found", function() {
+  it("returns null if no results were found", function() {
     expect(nearestLarger([1, 3, 2, 4, 2], 3)).to.eql(null);
   })
 })
