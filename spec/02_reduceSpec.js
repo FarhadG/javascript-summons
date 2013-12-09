@@ -1,4 +1,4 @@
-require("../src/reduce");
+require("../src/02_reduce");
 var expect = require("../vendor/expect");
 
 describe("Reduce", function() {

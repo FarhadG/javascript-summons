@@ -1,4 +1,4 @@
-require("../src/mergeSort");
+require("../src/18_mergeSort");
 var expect = require("../vendor/expect");
 
 describe("Merge Sort", function() {

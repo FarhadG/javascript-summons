@@ -1,4 +1,4 @@
-require("../src/insertionSort");
+require("../src/14_insertionSort");
 var expect = require("../vendor/expect");
 
 describe("Insertion Sort", function() {

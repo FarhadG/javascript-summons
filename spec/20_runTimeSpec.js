@@ -1,4 +1,4 @@
-require("../src/runTime");
+require("../src/20_runTime");
 var expect = require("../vendor/expect");
 
 describe("Run Time", function() {

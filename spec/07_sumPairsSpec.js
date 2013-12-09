@@ -1,4 +1,4 @@
-require("../src/sumPairs");
+require("../src/07_sumPairs");
 var expect = require("../vendor/expect");
 
 describe("Sum Pairs", function() {

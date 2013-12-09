@@ -1,4 +1,4 @@
-require("../src/changeBase");
+require("../src/10_changeBase");
 var expect = require("../vendor/expect");
 
 describe("Change Base", function() {

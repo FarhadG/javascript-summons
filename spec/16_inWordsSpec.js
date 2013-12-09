@@ -1,4 +1,4 @@
-require("../src/inWords");
+require("../src/16_inWords");
 var expect = require("../vendor/expect");
 
 describe("In Words", function() {

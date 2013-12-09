@@ -1,4 +1,4 @@
-require("../src/digitCombos");
+require("../src/12_digitCombos");
 var expect = require("../vendor/expect");
 
 describe("Digit Combinations", function() {

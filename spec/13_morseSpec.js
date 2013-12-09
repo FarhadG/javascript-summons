@@ -1,4 +1,4 @@
-require("../src/morse");
+require("../src/13_morse");
 var expect = require("../vendor/expect");
 
 describe("Morse", function() {

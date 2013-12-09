@@ -1,4 +1,4 @@
-require("../src/caesar");
+require("../src/06_caesar");
 var expect = require("../vendor/expect");
 
 describe("Caesar Cipher", function() {

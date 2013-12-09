@@ -1,4 +1,4 @@
-require("../src/indexWords");
+require("../src/05_indexWords");
 var expect = require("../vendor/expect");
 
 describe("Index Words", function() {

@@ -1,4 +1,4 @@
-require("../src/bubbleSort");
+require("../src/09_bubbleSort");
 var expect = require("../vendor/expect");
 
 describe("Bubble Sort", function() {

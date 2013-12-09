@@ -1,4 +1,4 @@
-require("../src/unique");
+require("../src/03_unique");
 var expect = require("../vendor/expect");
 
 describe("Unique", function() {

@@ -1,4 +1,4 @@
-require("../src/combineArr");
+require("../src/11_combineArr");
 var expect = require("../vendor/expect");
 
 describe("Combine Arrays", function() {

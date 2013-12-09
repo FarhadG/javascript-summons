@@ -1,4 +1,4 @@
-require("../src/factors");
+require("../src/01_factors");
 var expect = require("../vendor/expect");
 
 describe("Factors", function() {

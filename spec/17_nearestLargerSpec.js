@@ -1,4 +1,4 @@
-require("../src/nearestLarger");
+require("../src/17_nearestLarger");
 var expect = require("../vendor/expect");
 
 describe("Nearest Larger", function() {
