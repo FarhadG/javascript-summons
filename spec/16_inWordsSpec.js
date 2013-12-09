@@ -78,4 +78,4 @@ describe("In Words", function() {
     expect(inWords(1000000000001)).to.equal('one trillion one');
     expect(inWords(1888259040036)).to.equal('one trillion eight hundred eighty eight billion two hundred fifty nine million forty thousand thirty six');
   })
-});
+})

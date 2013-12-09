@@ -19,4 +19,4 @@ describe("Index Words", function() {
     var result = {b: ["banana", "bat"], c: ["car", "carrot", "cat"], y: ["yellow"]};
     expect(indexWords(words)).to.eql(result);
   })
-});
+})

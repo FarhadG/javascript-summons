@@ -9,4 +9,4 @@ describe("Unique", function() {
   it("returns a sorted array of the unique elements", function() {
     expect(unique([4, 4, 2, 7, 2, 5])).to.eql([2, 4, 5, 7]);
   })
-});
+})
