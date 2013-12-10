@@ -21,4 +21,4 @@ describe("Scramble Word", function() {
   it("handles multiple successful cases", function() {
     expect(scrambleWord("turn", ["numb", "turn", "runt", "nurt"])).to.eql(["turn", "runt", "nurt"]);
   })
-});
+})
