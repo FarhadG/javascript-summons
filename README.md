@@ -66,7 +66,7 @@ Solve the exercise and summon the test by running the following command:
   $ mocha filenameSpec.js
 ```
 
-Be sure to run this command in the `spec` directory.
+Be sure to run this command within the `spec` directory.
 
 ## Options
 

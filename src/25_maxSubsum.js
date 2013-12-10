@@ -9,6 +9,6 @@
 
 ################## */
 
-maxSubsum = function() {
+maxSubsum = function(arr) {
   // code your magic here
 };
