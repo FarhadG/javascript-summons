@@ -19,6 +19,6 @@ describe("Nearest Larger", function() {
   })
 
   it("returns null if no results were found", function() {
-    expect(nearestLarger([1, 3, 2, 4, 2], 3)).to.eql(null);
+    expect(nearestLarger([1, 3, 2, 4, 2], 3)).to.be.null;
   })
 })
