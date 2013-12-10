@@ -1,5 +1,5 @@
-require("../src/06_caesar");
-var expect = require("../vendor/expect");
+require('../src/06_caesar');
+var expect = require('../vendor/expect');
 
 describe("Caesar Cipher", function() {
   it("encodes lowercase strings", function() {

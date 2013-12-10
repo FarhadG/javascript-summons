@@ -1,5 +1,5 @@
-require("../src/01_factors");
-var expect = require("../vendor/expect");
+require('../src/01_factors');
+var expect  = require('../vendor/expect');
 
 describe("Factors", function() {
   it("returns an array of the input's factors", function() {

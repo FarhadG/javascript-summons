@@ -1,5 +1,5 @@
-require("../src/03_unique");
-var expect = require("../vendor/expect");
+require('../src/03_unique');
+var expect = require('../vendor/expect');
 
 describe("Unique", function() {
   it("returns a new array with the unique elements", function() {

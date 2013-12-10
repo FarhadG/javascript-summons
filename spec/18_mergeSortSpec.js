@@ -1,5 +1,5 @@
-require("../src/18_mergeSort");
-var expect = require("../vendor/expect");
+require('../src/18_mergeSort');
+var expect = require('../vendor/expect');
 
 describe("Merge Sort", function() {
   it("returns an empty array if there are no elements to sort", function() {

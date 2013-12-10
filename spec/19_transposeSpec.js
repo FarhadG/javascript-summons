@@ -1,5 +1,5 @@
-require("../src/19_transpose");
-var expect = require("../vendor/expect");
+require('../src/19_transpose');
+var expect = require('../vendor/expect');
 
 describe("Transpose", function() {
   it("converts between row-oriented and column-oriented representations", function() {

@@ -1,5 +1,5 @@
-require("../src/17_nearestLarger");
-var expect = require("../vendor/expect");
+require('../src/17_nearestLarger');
+var expect = require('../vendor/expect');
 
 describe("Nearest Larger", function() {
   it("return the nearest larger integer's index to the left", function() {

@@ -1,5 +1,5 @@
-require("../src/15_scrambleWord");
-var expect = require("../vendor/expect");
+require('../src/15_scrambleWord');
+var expect = require('../vendor/expect');
 
 describe("Scramble Word", function() {
   it("handles a simple word", function() {

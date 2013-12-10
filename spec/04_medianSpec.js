@@ -1,5 +1,5 @@
-require("../src/04_median");
-var expect = require("../vendor/expect");
+require('../src/04_median');
+var expect = require('../vendor/expect');
 
 describe("Median", function() {
   it("returns an empty array if there are no elements", function() {

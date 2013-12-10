@@ -1,5 +1,5 @@
-require("../src/16_inWords");
-var expect = require("../vendor/expect");
+require('../src/16_inWords');
+var expect = require('../vendor/expect');
 
 describe("In Words", function() {
   it("reads 0 to 9", function() {

@@ -1,5 +1,5 @@
-require("../src/20_runTime");
-var expect = require("../vendor/expect");
+require('../src/20_runTime');
+var expect = require('../vendor/expect');
 
 describe("Run Time", function() {
   it("calculates the time taken to run a function", function() {

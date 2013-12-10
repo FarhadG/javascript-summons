@@ -1,5 +1,5 @@
-require("../src/10_changeBase");
-var expect = require("../vendor/expect");
+require('../src/10_changeBase');
+var expect = require('../vendor/expect');
 
 describe("Change Base", function() {
   it("changes numbers from base 10 to another", function() {

@@ -1,5 +1,5 @@
-require("../src/24_substrings");
-var expect = require("../vendor/expect");
+require('../src/24_substrings');
+var expect = require('../vendor/expect');
 
 describe("Substrings", function() {
   it("returns the substrings of a single character", function() {

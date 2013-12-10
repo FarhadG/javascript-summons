@@ -1,5 +1,5 @@
-require("../src/07_sumPairs");
-var expect = require("../vendor/expect");
+require('../src/07_sumPairs');
+var expect = require('../vendor/expect');
 
 describe("Sum Pairs", function() {
   it("returns an empty array", function() {

@@ -1,5 +1,5 @@
-require("../src/22_orderedVowels");
-var expect = require("../vendor/expect");
+require('../src/22_orderedVowels');
+var expect = require('../vendor/expect');
 
 describe("Ordered Vowels", function() {
   it("returns a word that is in order", function() {

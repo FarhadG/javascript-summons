@@ -1,5 +1,5 @@
-require("../src/14_insertionSort");
-var expect = require("../vendor/expect");
+require('../src/14_insertionSort');
+var expect = require('../vendor/expect');
 
 describe("Insertion Sort", function() {
   it("returns an empty array if there are no elements to sort", function() {

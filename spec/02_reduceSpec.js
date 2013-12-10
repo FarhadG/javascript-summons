@@ -1,5 +1,5 @@
-require("../src/02_reduce");
-var expect = require("../vendor/expect");
+require('../src/02_reduce');
+var expect = require('../vendor/expect');
 
 describe("Reduce", function() {
   it("returns the sum of the elements in an array", function() {

@@ -1,5 +1,5 @@
-require("../src/13_morse");
-var expect = require("../vendor/expect");
+require('../src/13_morse');
+var expect = require('../vendor/expect');
 
 describe("Morse", function() {
   it("converts a simple letter", function() {
