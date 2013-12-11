@@ -1,5 +1,4 @@
-/* ############### MERGE SORT
-
+/* MERGE SORT
   Write a function that sorts an array of integers 
   using the "Merge Sort" methodology.
 
@@ -16,9 +15,15 @@
   It is also easily applied to lists, not only arrays, as it only requires 
   sequential access, not random access. However, it has additional 
   O(n) space complexity, and involves a large number of copies in simple implementations."
+*/
 
-################## */
+var mergeSort;
 
 mergeSort = function(arr) {
-  // code your magic here
+  return "summon here";
 };
+
+/* Mocha Testing*/
+
+
+module.exports = mergeSort;

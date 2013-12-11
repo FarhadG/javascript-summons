@@ -1,5 +1,4 @@
-/* ############### CAESAR CIPHER
-
+/* CAESAR CIPHER
   Implement your own Caesar cipher.
 
   http://en.wikipedia.org/wiki/Caesar_cipher
@@ -11,12 +10,18 @@
   some fixed number of positions down the alphabet. For example, with a 
   left shift of 3, D would be replaced by A, E would become B, and so on.
 
-  For example: caesar("hello", 3) === "khoor"
+  For example: caesar("hello", 3) returns "khoor"
 
   HINT: You can either map letters to numbers or use the ASCII codes.
+*/
 
-################## */
+var caesar;
 
 caesar = function(str, offset) {
-  // code your magic here
+  return "summon here";
 };
+
+/* Mocha Testing*/
+
+
+module.exports = caesar;

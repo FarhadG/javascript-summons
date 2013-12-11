@@ -1,5 +1,4 @@
-/* ############### TRANSPOSE
-
+/* TRANSPOSE
   To represent a matrix, or two-dimensional grid of numbers, we can write an array containing arrays which represent rows:
 
     var rows = [[0, 1, 2],
@@ -11,9 +10,15 @@
   For example: transpose(rows) ===  [[0, 3, 6],
                                      [1, 4, 7],
                                      [2, 5, 8]]
-                                   
-################## */
+*/
+
+var transpose;
 
 transpose = function(arr) {
-  // code your magic here
+  return "summon here";
 };
+
+/* Mocha Testing*/
+
+
+module.exports = transpose;

@@ -1,5 +1,4 @@
-/* ############### RECTANGLE INTERSECTION
-
+/* RECTANGLE INTERSECTION
   Write a function that returns the
   intersection of the two rectangles.
 
@@ -13,10 +12,16 @@
   y coordinate of each rectangle.
 
   For example: recIntersection([[0, 0], [2, 1]],
-                               [[1, 0], [3, 1]]) === [[1, 0], [2, 1]]
+                               [[1, 0], [3, 1]]) returns [[1, 0], [2, 1]]
+*/
 
-################## */
+var recIntersection;
 
 recIntersection = function(rec1, rec2) {
-  // code your magic here
+  return "summon here";
 };
+
+/* Mocha Testing*/
+
+
+module.exports = recIntersection;

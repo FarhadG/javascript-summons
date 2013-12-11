@@ -1,16 +1,17 @@
-require('../src/13_morse');
-var expect = require('../vendor/expect');
+var expect, morse;
+
+morse = require('../src/13_morse');
+
+expect = require('../vendor/expect');
 
 describe("Morse", function() {
   it("converts a simple letter", function() {
-    expect(morse("q")).to.equal("--.-");
-  })
-
+    return expect(morse("q")).to.equal("--.-");
+  });
   it("converts a small word", function() {
-    expect(morse("cat")).to.equal("-.-. .- -");
-  })
-
-  it("converts a sentence", function() {
-    expect(morse("cat in hat")).to.equal("-.-. .- -  .. -.  .... .- -");
-  })
-})
+    return expect(morse("cat")).to.equal("-.-. .- -");
+  });
+  return it("converts a sentence", function() {
+    return expect(morse("cat in hat")).to.equal("-.-. .- -  .. -.  .... .- -");
+  });
+});

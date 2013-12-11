@@ -1,5 +1,4 @@
-/* ############### INSERTION SORT
-
+/* INSERTION SORT
   Write a function that sorts an array of integers 
   using the "Method Sort" methodology.
 
@@ -16,9 +15,15 @@
   If larger, it leaves the element in place and moves to the next. 
   If smaller, it finds the correct position within the sorted list, 
   shifts all the larger values up to make a space, and inserts into that correct position."
+*/
 
-################## */
+var insertionSort;
 
 insertionSort = function(arr) {
-  // code your magic here
+  return "summon here";
 };
+
+/* Mocha Testing*/
+
+
+module.exports = insertionSort;

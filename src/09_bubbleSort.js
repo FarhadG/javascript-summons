@@ -1,5 +1,4 @@
-/* ############### BUBBLE SORT
-
+/* BUBBLE SORT
   Write a function that sorts an array of integers 
   using the "Bubble Sort" methodology.
 
@@ -13,9 +12,15 @@
   list is sorted. The algorithm gets its name from the way smaller elements 
   "bubble" to the top of the list. Because it only uses comparisons to 
   operate on elements, it is a comparison sort."
+*/
 
-################## */
+var bubbleSort;
 
 bubbleSort = function(arr) {
-  // code your magic here
+  return "summon here";
 };
+
+/* Mocha Testing*/
+
+
+module.exports = bubbleSort;
