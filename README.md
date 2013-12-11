@@ -58,7 +58,7 @@ var factors;
 
 factors = function(num) {
   return "summon here";
-  };
+};
 ```
 Solve the exercise and summon the test by running the following command:
 
