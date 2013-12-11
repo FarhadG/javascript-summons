@@ -1,8 +1,6 @@
 var digitsCombos, expect;
 
-digitsCombos = require('../src/12_digitCombos');
-
-expect = require('../vendor/expect');
+digitsCombos = require('../src/12_digitCombos', expect = require('../vendor/expect'));
 
 describe("Digit Combinations", function() {
   it("returns the single combination of a 1 digit number", function() {

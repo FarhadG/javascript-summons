@@ -1,4 +1,5 @@
-/* FISHER-YATES SHUFFLE
+/*--FISHER-YATES SHUFFLE
+
   Write a function that takes an array and shuffles the
   elements using the "Fisher–Yates shuffle" methodology.
 
@@ -17,7 +18,7 @@ fyShuffle = function(arr) {
   return "summon here";
 };
 
-/* Mocha Testing*/
+/*--Mocha Testing--*/
 
 
 module.exports = fyShuffle;

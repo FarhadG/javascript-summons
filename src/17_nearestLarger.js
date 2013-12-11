@@ -1,4 +1,5 @@
-/* NEAREST LARGER
+/*--NEAREST LARGER
+
   Write a function that takes an array and an index.
   The function should return the index of the nearest
   larger integer. In case of a tie, choose the left larger integer
@@ -13,7 +14,7 @@ nearestLarger = function(arr, idx) {
   return "summon here";
 };
 
-/* Mocha Testing*/
+/*--Mocha Testing--*/
 
 
 module.exports = nearestLarger;

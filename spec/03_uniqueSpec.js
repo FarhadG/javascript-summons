@@ -1,8 +1,6 @@
 var expect, unique;
 
-unique = require('../src/03_unique');
-
-expect = require('../vendor/expect');
+unique = require('../src/03_unique', expect = require('../vendor/expect'));
 
 describe("Unique", function() {
   it("returns a new array with the unique elements", function() {

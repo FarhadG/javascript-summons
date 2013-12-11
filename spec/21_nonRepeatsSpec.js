@@ -1,8 +1,6 @@
 var expect, nonRepeats;
 
-nonRepeats = require('../src/21_nonRepeats');
-
-expect = require('../vendor/expect');
+nonRepeats = require('../src/21_nonRepeats', expect = require('../vendor/expect'));
 
 describe("Non Repeats", function() {
   it("return the number(s) with unique digtis", function() {

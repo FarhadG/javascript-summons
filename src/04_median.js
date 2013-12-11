@@ -1,4 +1,5 @@
-/* MEDIAN
+/*--MEDIAN
+
   Write a function that finds the median of a given array of integers.
   If the array has an odd number of integers, return the middle item 
   from the sorted array. If the array has an even number of integers, 
@@ -13,7 +14,7 @@ median = function(arr) {
   return "summon here";
 };
 
-/* Mocha Testing*/
+/*--Mocha Testing--*/
 
 
 module.exports = median;

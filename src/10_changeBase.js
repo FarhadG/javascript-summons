@@ -1,4 +1,5 @@
-/* CHANGE BASE
+/*--CHANGE BASE
+
   Write a method that converts a number from one base to a different base.
   It should work for bases up to 16 (hexadecimal).
 
@@ -13,7 +14,7 @@ changeBase = function(num, from, to) {
   return "summon here";
 };
 
-/* Mocha Testing*/
+/*--Mocha Testing--*/
 
 
 module.exports = changeBase;

@@ -1,4 +1,5 @@
-/* RECTANGLE INTERSECTION
+/*--RECTANGLE INTERSECTION
+
   Write a function that returns the
   intersection of the two rectangles.
 
@@ -21,7 +22,7 @@ recIntersection = function(rec1, rec2) {
   return "summon here";
 };
 
-/* Mocha Testing*/
+/*--Mocha Testing--*/
 
 
 module.exports = recIntersection;

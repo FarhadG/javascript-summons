@@ -1,4 +1,5 @@
-/* FACTORS
+/*--FACTORS
+
   Write a function that returns an array 
   containing all of the factors of a number.
 
@@ -11,7 +12,7 @@ factors = function(num) {
   return "summon here";
 };
 
-/* Mocha Testing*/
+/*--Mocha Testing--*/
 
 
 module.exports = factors;

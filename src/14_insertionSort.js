@@ -1,4 +1,5 @@
-/* INSERTION SORT
+/*--INSERTION SORT
+
   Write a function that sorts an array of integers 
   using the "Method Sort" methodology.
 
@@ -23,7 +24,7 @@ insertionSort = function(arr) {
   return "summon here";
 };
 
-/* Mocha Testing*/
+/*--Mocha Testing--*/
 
 
 module.exports = insertionSort;

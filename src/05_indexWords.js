@@ -1,4 +1,5 @@
-/* INDEX WORDS
+/*--INDEX WORDS
+
   Write a function that takes an array containing a list of words
   and returns an object mapping out the first letter of each word
   to an array of the words starting with that letter.
@@ -12,7 +13,7 @@ indexWords = function(arr) {
   return "summon here";
 };
 
-/* Mocha Testing*/
+/*--Mocha Testing--*/
 
 
 module.exports = indexWords;

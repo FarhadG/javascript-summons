@@ -1,8 +1,6 @@
 var expect, recIntersection;
 
-recIntersection = require('../src/23_recIntersection');
-
-expect = require('../vendor/expect');
+recIntersection = require('../src/23_recIntersection', expect = require('../vendor/expect'));
 
 describe("Rectangle Intersection", function() {
   it("handles a simple case", function() {

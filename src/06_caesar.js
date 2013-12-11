@@ -1,4 +1,5 @@
-/* CAESAR CIPHER
+/*--CAESAR CIPHER
+
   Implement your own Caesar cipher.
 
   http://en.wikipedia.org/wiki/Caesar_cipher
@@ -21,7 +22,7 @@ caesar = function(str, offset) {
   return "summon here";
 };
 
-/* Mocha Testing*/
+/*--Mocha Testing--*/
 
 
 module.exports = caesar;

@@ -1,8 +1,6 @@
 var expect, insertionSort;
 
-insertionSort = require('../src/14_insertionSort');
-
-expect = require('../vendor/expect');
+insertionSort = require('../src/14_insertionSort', expect = require('../vendor/expect'));
 
 describe("Insertion Sort", function() {
   it("returns an empty array if there are no elements to sort", function() {

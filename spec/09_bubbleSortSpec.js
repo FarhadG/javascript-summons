@@ -1,8 +1,6 @@
 var bubbleSort, expect;
 
-bubbleSort = require('../src/09_bubbleSort');
-
-expect = require('../vendor/expect');
+bubbleSort = require('../src/09_bubbleSort', expect = require('../vendor/expect'));
 
 describe("Bubble Sort", function() {
   it("returns an empty array if there are no elements to sort", function() {

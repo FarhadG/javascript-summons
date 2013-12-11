@@ -1,8 +1,6 @@
 var expect, indexWords;
 
-indexWords = require('../src/05_indexWords');
-
-expect = require('../vendor/expect');
+indexWords = require('../src/05_indexWords', expect = require('../vendor/expect'));
 
 describe("Index Words", function() {
   it("returns an object mapping out the words to their first letter", function() {

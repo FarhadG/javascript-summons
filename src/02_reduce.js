@@ -1,4 +1,5 @@
-/* REDUCE
+/*--REDUCE
+
   Return the sum of all the elements in an array 
   plus an optional initial value.
 
@@ -11,7 +12,7 @@ reduce = function(arr, initial) {
   return "summon here";
 };
 
-/* Mocha Testing*/
+/*--Mocha Testing--*/
 
 
 module.exports = reduce;

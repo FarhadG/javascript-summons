@@ -1,4 +1,5 @@
-/* BUBBLE SORT
+/*--BUBBLE SORT
+
   Write a function that sorts an array of integers 
   using the "Bubble Sort" methodology.
 
@@ -20,7 +21,7 @@ bubbleSort = function(arr) {
   return "summon here";
 };
 
-/* Mocha Testing*/
+/*--Mocha Testing--*/
 
 
 module.exports = bubbleSort;

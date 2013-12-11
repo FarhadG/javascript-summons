@@ -1,4 +1,5 @@
-/* MERGE SORT
+/*--MERGE SORT
+
   Write a function that sorts an array of integers 
   using the "Merge Sort" methodology.
 
@@ -23,7 +24,7 @@ mergeSort = function(arr) {
   return "summon here";
 };
 
-/* Mocha Testing*/
+/*--Mocha Testing--*/
 
 
 module.exports = mergeSort;

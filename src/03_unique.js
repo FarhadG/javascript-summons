@@ -1,4 +1,5 @@
-/* UNIQUE
+/*--UNIQUE
+
   Write a function that takes an array and returns 
   a new sorted array containing all of the unique elements
   of the original array.
@@ -12,7 +13,7 @@ unique = function(arr) {
   return "summon here";
 };
 
-/* Mocha Testing*/
+/*--Mocha Testing--*/
 
 
 module.exports = unique;

@@ -1,4 +1,5 @@
-/* NON REPEATS
+/*--NON REPEATS
+
   Write a function takes a range of numbers
   and outputs the years that have unique digits.
 
@@ -11,7 +12,7 @@ nonRepeats = function(start, end) {
   return "summon here";
 };
 
-/* Mocha Testing*/
+/*--Mocha Testing--*/
 
 
 module.exports = nonRepeats;

@@ -1,4 +1,5 @@
-/* IN WORDS
+/*--IN WORDS
+
   Write a function that takes a single positive integer 
   and returns its equivalent in words.
 
@@ -14,7 +15,7 @@ inWords = function(num) {
   return "summon here";
 };
 
-/* Mocha Testing*/
+/*--Mocha Testing--*/
 
 
 module.exports = inWords;

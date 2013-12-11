@@ -1,8 +1,6 @@
 var expect, maxSubsum;
 
-maxSubsum = require('../src/25_maxSubsum');
-
-expect = require('../vendor/expect');
+maxSubsum = require('../src/25_maxSubsum', expect = require('../vendor/expect'));
 
 describe("Max Subsum", function() {
   it("returns the subarray with the largest sum", function() {

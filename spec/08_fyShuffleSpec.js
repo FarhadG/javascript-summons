@@ -1,8 +1,6 @@
 var expect, fyShuffle;
 
-fyShuffle = require('../src/08_fyShuffle');
-
-expect = require('../vendor/expect');
+fyShuffle = require('../src/08_fyShuffle', expect = require('../vendor/expect'));
 
 describe("Fisher–Yates Shuffle", function() {
   return it("shuffles the array using the Fisher–Yates methodology", function() {
