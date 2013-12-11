@@ -3,14 +3,14 @@ JAVASCRIPT SUMMONS
 
 This project is in its early stages and will continue to grow with new tests to summon. If something is not working or you would like a new feature, please use the issues page.
 
-Do you have what it takes to summon Javascript? Let's find out!
+Do you have what it takes to summon JavaScript? Let's find out!
 
 ## Information
 
 <table>
 <tr>
 <td>Language</td>
-<td>Javascript</td>
+<td>JavaScript</td>
 </tr>
 
 <tr>
@@ -34,7 +34,7 @@ Once you have `npm`, install `mocha` globally by running the following command:
   $ npm install -g mocha
 ``` 
 
-Then fork and clone (or download) Javascript Summons into your local directory:
+Then fork and clone (or download) JavaScript Summons into your local directory:
 
 ```
   $ git clone http://www.github.com/farhadg/javascript-summons
