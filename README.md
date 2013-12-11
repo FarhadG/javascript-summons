@@ -47,7 +47,8 @@ All of the exercises are located in the `src` directory. They contain the necess
 Navigate to the `src` directory and fire up an exercise:
 
 ```javascript
-/* FACTORS
+/*--FACTORS
+
   Write a function that returns an array 
   containing all of the factors of a number.
 
