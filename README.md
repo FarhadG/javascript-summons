@@ -37,7 +37,7 @@ Once you have `npm`, install `mocha` globally by running the following command:
 Then fork and clone (or download) JavaScript Summons into your local directory:
 
 ```
-  $ git clone http://www.github.com/farhadg/javascript-summons
+  $ git clone https://www.github.com/farhadg/javascript-summons
 ```
 
 ## Usage
